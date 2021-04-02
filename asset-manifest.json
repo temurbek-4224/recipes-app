@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/temurbek-4224/recipes-app/static/css/main.ae9bb752.chunk.css",
+    "main.js": "/temurbek-4224/recipes-app/static/js/main.498c4e29.chunk.js",
+    "main.js.map": "/temurbek-4224/recipes-app/static/js/main.498c4e29.chunk.js.map",
+    "runtime-main.js": "/temurbek-4224/recipes-app/static/js/runtime-main.5bf01968.js",
+    "runtime-main.js.map": "/temurbek-4224/recipes-app/static/js/runtime-main.5bf01968.js.map",
+    "static/js/2.6941d6c3.chunk.js": "/temurbek-4224/recipes-app/static/js/2.6941d6c3.chunk.js",
+    "static/js/2.6941d6c3.chunk.js.map": "/temurbek-4224/recipes-app/static/js/2.6941d6c3.chunk.js.map",
+    "static/js/3.c490cc7f.chunk.js": "/temurbek-4224/recipes-app/static/js/3.c490cc7f.chunk.js",
+    "static/js/3.c490cc7f.chunk.js.map": "/temurbek-4224/recipes-app/static/js/3.c490cc7f.chunk.js.map",
+    "index.html": "/temurbek-4224/recipes-app/index.html",
+    "static/css/main.ae9bb752.chunk.css.map": "/temurbek-4224/recipes-app/static/css/main.ae9bb752.chunk.css.map",
+    "static/js/2.6941d6c3.chunk.js.LICENSE.txt": "/temurbek-4224/recipes-app/static/js/2.6941d6c3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5bf01968.js",
+    "static/js/2.6941d6c3.chunk.js",
+    "static/css/main.ae9bb752.chunk.css",
+    "static/js/main.498c4e29.chunk.js"
+  ]
+}
